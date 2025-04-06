@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://buy-sonofit.vercel.app/sitemap.xml
+Sitemap: https://keravita-pro.vercel.app/sitemap.xml
