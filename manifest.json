@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Keravita Pro™ (Official Website) Get $300 OFF + Free Shipping",
+  "short_name":"Keravita Pro™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Keravita Pro contains vitamins, minerals, and essential herbal extracts, thereby abiding 26 ingredients for special purposes.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
